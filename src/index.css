@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@plugin "tailwindcss-animate";
+
+@theme {
+  --color-lilac: #d5bff2;
+  --color-purple: #bb87ff;
+  --color-yellow: #fbed2b;
+  --color-light-yellow: #fff568;
+}
