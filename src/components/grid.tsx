@@ -25,7 +25,7 @@ export default function Grid() {
         ))
       ) : (
         <motion.div
-          className="absolute top-0 left-0 w-full h-full flex flex-col gap-8 justify-center items-center bg-black border border-lilac text-white text-4xl font-bold rounded-xl"
+          className="absolute top-0 left-0 w-full h-full flex flex-col gap-8 justify-center items-center bg-black border border-lilac text-white text-2xl md:text-4xl font-bold rounded-xl"
           style={{
             transform: "rotateY(180deg)",
           }}
